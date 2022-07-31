@@ -1,6 +1,6 @@
 # Bubble Sort
 
-video reference - [selection sort](https://youtu.be/Jdtq5uKz-w4)
+video reference - [bubble sort](https://youtu.be/Jdtq5uKz-w4)
 
 ## Sudo Code
 - iter over the list based on index (0 to len of list -1) 
