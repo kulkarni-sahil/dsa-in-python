@@ -38,3 +38,6 @@ iteration 5:
 
 iteration 6:
 [1,2,3,4,7,8,9]
+
+## Time Complexity:
+ O(n^2)
