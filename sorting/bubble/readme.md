@@ -4,7 +4,7 @@ video reference - [bubble sort](https://youtu.be/Jdtq5uKz-w4)
 
 ## Sudo Code
 - iter over the list based on index (0 to len of list -1) 
-- inner - loop iter (0 to len of list - 1)
+- inner - loop iter (0 to len of list - 1 - iterating index)
 - In each iteration:
   - compare current element with the next element
   - If the current element is greater than the next element -> swap the elements 
